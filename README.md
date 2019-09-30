@@ -25,5 +25,5 @@ balanceOf[_arg0] + _value > balanceOf[_arg0] 이러한 조건이 없다는 것�
 사실은 치명적으로 공격을 할 수 있는 어택이라기보다는 서비스 과정에서 256 비트를 넘어서면 서비스가 불합리하게 흘러갈 수 있는 버그(Logic bug)이다.
 
 
-**Solutions)**
+**Solutions)** <br>
 SafeMath Library 사용, Condition Check
