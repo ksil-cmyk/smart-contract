@@ -5,10 +5,9 @@ https://dvpnet.io/lddt
 
 Ref) https://etherscan.io/bytecode-decompiler?a=0x2f948fc70ea675c27b34ad0a2f82d321a9a50c89#
 
-ID : ksil
-Company : everiToken
+**ID** : ksil                    **Company** : everiToken
 
-Summary)
+**Summary)**
 The everiToken, an Ethereum token, has an integer overflow that allows the owner of the contract to set the balance of an arbitrary user to any value.
 
 ![캡처](https://user-images.githubusercontent.com/31252686/65886096-ac049a00-e3d6-11e9-9a2f-366f6e5ee20e.PNG)
@@ -26,6 +25,6 @@ balanceOf[_arg0] + _value > balanceOf[_arg0] 이러한 조건이 없다는 것�
 사실은 치명적으로 공격을 할 수 있는 어택이라기보다는 서비스 과정에서 256 비트를 넘어서면 서비스가 불합리하게 흘러갈 수 있는 버그(Logic bug)이다.
 
 
-Solutions)
+**Solutions)**
 SafeMath Library 사용
 Condition Check
