@@ -1,9 +1,9 @@
 # smart-contract vulnerability report
 
-##DVP-2019-29361 An overflow vulnerability<br>
+## DVP-2019-29361 An overflow vulnerability<br>
 https://dvpnet.io/lddt
 
-Ref) <br>
+**Ref)** <br>
 https://etherscan.io/bytecode-decompiler?a=0x2f948fc70ea675c27b34ad0a2f82d321a9a50c89#
 
 **ID** : ksil<br>**Company** : everiToken
