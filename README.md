@@ -26,5 +26,4 @@ balanceOf[_arg0] + _value > balanceOf[_arg0] 이러한 조건이 없다는 것�
 
 
 **Solutions)**
-SafeMath Library 사용
-Condition Check
+SafeMath Library 사용, Condition Check
