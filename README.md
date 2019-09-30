@@ -5,9 +5,9 @@ https://dvpnet.io/lddt
 
 Ref) https://etherscan.io/bytecode-decompiler?a=0x2f948fc70ea675c27b34ad0a2f82d321a9a50c89#
 
-**ID** : ksil                    **Company** : everiToken
+**ID** : ksil<br>**Company** : everiToken
 
-**Summary)**
+**Summary)**<br>
 The everiToken, an Ethereum token, has an integer overflow that allows the owner of the contract to set the balance of an arbitrary user to any value.
 
 ![캡처](https://user-images.githubusercontent.com/31252686/65886096-ac049a00-e3d6-11e9-9a2f-366f6e5ee20e.PNG)
