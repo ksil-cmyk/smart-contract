@@ -1,4 +1,4 @@
-# smart-contract vulnerability report
+# smart_contract vulnerability report
 
 ### DVP-2019-29361 An overflow vulnerability<br>
 https://dvpnet.io/lddt
